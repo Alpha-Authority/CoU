@@ -1,1 +1,2 @@
-# CoU
+# Initial page
+
