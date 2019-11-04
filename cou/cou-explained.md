@@ -2,5 +2,5 @@
 description: 'Alpha Authority - Code of Unification - Currently [V0.0.4]'
 ---
 
-# Directory
+# CoU Explained
 

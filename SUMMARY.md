@@ -3,13 +3,15 @@
 * [Home](README.md)
 * [Directory](directory.md)
 
-## Code of Unification
+## Code of Unification <a id="cou"></a>
 
-* [AA Explained](code-of-unification/aa-explained.md)
-* [CoU Explained](code-of-unification/cou-explained.md)
-* [Pledge](code-of-unification/pledge.md)
-* [Hierarchy](code-of-unification/hierarchy.md)
-* [Branches](code-of-unification/branches.md)
-* [Development](code-of-unification/development.md)
-* [Communications](code-of-unification/communications.md)
+* [AA Explained](cou/aa-explained.md)
+* [CoU Explained](cou/cou-explained.md)
+* [Pledge](cou/pledge.md)
+* [Hierarchy](cou/hierarchy.md)
+* [Events](cou/events.md)
+* [Branches](cou/branches.md)
+* [Development](cou/development.md)
+* [Communications](cou/communications.md)
+* [Creators](cou/creators.md)
 
