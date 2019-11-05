@@ -1,5 +1,5 @@
 ---
-description: 'Alpha Authority - Code of Unification - Currently [V0.0.4]'
+description: 'Alpha Authority - Code of Unification - Currently [V0.0.5]'
 ---
 
 # CoU Explained
