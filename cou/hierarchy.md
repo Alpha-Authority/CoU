@@ -1,5 +1,5 @@
 ---
-description: 'Alpha Authority - Code of Unification - Currently [V0.0.5]'
+description: 'Alpha Authority - Code of Unification - Currently [V0.0.6]'
 ---
 
 # Hierarchy
