@@ -1,5 +1,5 @@
 ---
-description: 'Alpha Authority - Code of Unification - Currently [V0.0.7]'
+description: 'Alpha Authority - Code of Unification - Currently [V0.0.8]'
 ---
 
 # Events
