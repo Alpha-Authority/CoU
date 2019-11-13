@@ -1,5 +1,5 @@
 ---
-description: 'Alpha Authority - Code of Unification - Currently [V0.0.12]'
+description: 'Alpha Authority - Code of Unification - Currently [V0.0.13]'
 ---
 
 # CoU Explained
@@ -20,7 +20,7 @@ Although it can seem like a lot to carry, throughout time and participation, you
 
 ### Reading & Updates
 
-With all that said, continue into the next sections in any order. Just be sure to read all of them, and check back occasionally for any changes.
+With all that said, continue into the next sections in any order. Just be sure to read all of them, and check back occasionally for any changes. Rest assured, Alpha Authority's reign will send everyone a notification when there is a change to the CoU \(See Comm. Section\).
 
 ### Signed
 
