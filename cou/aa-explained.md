@@ -1,10 +1,10 @@
 ---
-description: 'Alpha Authority - Code of Unification - Currently [V0.0.14]'
+description: 'Alpha Authority - Code of Unification - Currently [V0.0.15]'
 ---
 
 # AA Explained
 
-## Today \(WIP
+## Today \(WIP\)
 
 ### What is it? 
 
