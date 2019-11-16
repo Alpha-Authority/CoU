@@ -2,7 +2,7 @@
 description: 'Alpha Authority - Code of Unification - Currently [V0.0.15]'
 ---
 
-# Writing
+# Goal
 
 ## November 9th, 2019
 
