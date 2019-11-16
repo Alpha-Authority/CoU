@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Writing](writing.md)
+* [goal](goal.md)
 
 ## Code of Unification <a id="cou"></a>
 
