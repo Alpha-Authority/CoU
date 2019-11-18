@@ -8,7 +8,7 @@ description: 'Alpha Authority - Code of Unification - Currently [V0.0.18]'
 
 The _Code of Unification \(CoU\)_ was intially based on Alpha Authoritys' group setup developments between The Fog and the Alpha Authority in February of 2018.
 
-The _Code of Unification_ widely reflects on the ideas and infrastructure created by former Alpha Authority 2IC, e2w2q2, and while given a close layout like the _Code of Adherance \(CoA\)_, made by littleg777, and Hoshijiro. 
+The _Code of Unification_ widely reflects on the ideas and infrastructure created by former Alpha Authority 2IC, e2w2q2, and while given a close layout like the _Code of Adherance \(CoA\)_, made by littleg777, and Hoshijiro.
 
 ## Creation
 
@@ -29,6 +29,4 @@ The intial ideas of how the CoU should operate were by e2w2q2, and were worked o
 * TheMcInc
 * TheRobIoxDev
 * zstrap10
-
-
 

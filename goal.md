@@ -13,7 +13,7 @@ In reference to some of the technological feats in ROBLOX's history, we started 
 It went as:
 
 * Alpha Authority owning a site which:
-  * was a host for: 
+  * was a host for:
     * Player Rankings & Leaderboard for: \(All time/Yearly/Seasons\)
       * Skill Statistics
       * Kills/Deaths/Damage

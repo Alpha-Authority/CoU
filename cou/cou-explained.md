@@ -24,6 +24,7 @@ With all that said, continue into the next sections in any order. Just be sure t
 
 ### Signed
 
-Appreciate the commitment to read this far. &lt;3   
- - Overlord Scrizeebe
+Appreciate the commitment to read this far. &lt;3
+
+* Overlord Scrizeebe
 

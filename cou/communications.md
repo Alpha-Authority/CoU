@@ -6,12 +6,12 @@ description: 'Alpha Authority - Code of Unification - Currently [V0.0.18]'
 
 ## Our Community Server
 
-Alpha Authority uses a a variety of platforms in its social network, but our most important one is on a website called discordapp.com, also known as Discord.  
-  
-Our Discord Server is where our community members can freely communicate with our staff, as well as other players in the Alpha Authority.  
-  
-All users in our playerbase, MUST join our Discord Server in order to go through our ranks. You'll be able to receive announcements, see all our resources, share memes and your media, overall be up-to-date on our groups' status.  
-  
+Alpha Authority uses a a variety of platforms in its social network, but our most important one is on a website called discordapp.com, also known as Discord.
+
+Our Discord Server is where our community members can freely communicate with our staff, as well as other players in the Alpha Authority.
+
+All users in our playerbase, MUST join our Discord Server in order to go through our ranks. You'll be able to receive announcements, see all our resources, share memes and your media, overall be up-to-date on our groups' status.
+
 Information on how to join is found below.
 
 ## Joining our Discord Server
@@ -58,7 +58,7 @@ These are the intial roles you can obtain.
 
 #### Required Verification
 
-Each role that requires you to verify has a different verification process. 
+Each role that requires you to verify has a different verification process.
 
 * Group Member:
   * Go to \#request-permissions
@@ -68,8 +68,6 @@ Each role that requires you to verify has a different verification process.
   * Use the code given in your profile STATUS, not description. At the top right of your profile area on your profile, you can update it through the three dots.
 
 ![Profile US](../.gitbook/assets/image.png)
-
-
 
 * Veteran
   * The Veteran role, identifies users as a person who is or was apart of the Alpha Authority for a long time.
