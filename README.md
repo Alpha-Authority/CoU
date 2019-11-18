@@ -1,5 +1,5 @@
 ---
-description: 'Alpha Authority - Code of Unification - Currently [V0.0.20]'
+description: 'Alpha Authority - Code of Unification - Currently [V0.0.21]'
 ---
 
 # Home
@@ -9,8 +9,8 @@ description: 'Alpha Authority - Code of Unification - Currently [V0.0.20]'
 **Master Site**  
 [https://alpha-authority.gitbook.io/alphaauthority/](https://alpha-authority.gitbook.io/alphaauthority/)  
   
-**Code of Unification**  
-[https://alpha-authority.gitbook.io/code-of-unification/](https://alpha-authority.gitbook.io/code-of-unification/)
+_**Code of Unification**_  
+****[https://alpha-authority.gitbook.io/code-of-unification/](https://alpha-authority.gitbook.io/code-of-unification/)
 
 ## Version Beta
 
