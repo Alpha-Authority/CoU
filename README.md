@@ -4,6 +4,11 @@ description: 'Alpha Authority - Code of Unification - Currently [V0.0.18]'
 
 # Home
 
+## Quick Links
+
+**Master Site**  
+[https://alpha-authority.gitbook.io/alphaauthority/](https://alpha-authority.gitbook.io/alphaauthority/)
+
 ## Version Beta
 
 The Code of Unification is currently being rewritten to accomidate Alpha Authority's publiclly used technological status.
