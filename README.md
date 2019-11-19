@@ -1,5 +1,5 @@
 ---
-description: 'Alpha Authority - Code of Unification - Currently [V0.0.22]'
+description: 'Alpha Authority - Code of Unification - Currently [V0.0.23]'
 ---
 
 # Home
@@ -12,7 +12,7 @@ This site isn't active for full operation in Alpha Authority. It is currently a 
 [https://alpha-authority.gitbook.io/alphaauthority/](https://alpha-authority.gitbook.io/alphaauthority/)  
   
 _**Code of Unification**_  
-****[https://alpha-authority.gitbook.io/code-of-unification/](https://alpha-authority.gitbook.io/code-of-unification/)
+[https://www.alpha-authority.gitbook.io/code-of-unification/](https://alpha-authority.gitbook.io/code-of-unification/)
 
 ## Version Beta
 
